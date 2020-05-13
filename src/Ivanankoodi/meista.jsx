@@ -1,9 +1,9 @@
 import React from "react";
 import Tekstijakuvalaatikko from "./Tekstijakuvalaatikko.jsx";
-import kiri from "/src/Kuvak/kiri.png";
-import ivana from "/src/Kuvak/Ivana.png";
-import sanni from "/src/Kuvak/sanni.png";
-import irpo from "/src/Kuvak/Irpo.png";
+import kiri from "../Kuvak/kiri.png";
+import ivana from "../Kuvak/Ivana.png";
+import sanni from "../Kuvak/sanni.png";
+import irpo from "../Kuvak/Irpo.png";
 
 // Jokainen erillinen const-muuttuja antaa parametrit teksijakuvalaatikko-funktiolle
 //Sekä täällä yksi tekstilaatikko (meteksti)
